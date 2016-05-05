@@ -152,7 +152,7 @@
                                     "enabled" : "true",
                                     "ensureRunning" : "true",
                                     "commands"      : [
-                                        "01-install-host-agent"
+                                        "04-install-host-agent"
                                     ]
                                 }
                             }
