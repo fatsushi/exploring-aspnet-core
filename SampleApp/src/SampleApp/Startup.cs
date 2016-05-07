@@ -24,7 +24,7 @@ namespace SampleApp
 
             app.Run(async (context) =>
             {
-                await context.Response.WriteAsync("Exploring ASP.NET Core with AWS From GitHub2.");
+                await context.Response.WriteAsync("Exploring ASP.NET Core with AWS From GitHub3.");
             });
         }
 
